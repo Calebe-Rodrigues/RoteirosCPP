@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1504488843 source:c:\users\calebe\downloads\ufpb\c++\projecto\data.cpp
+	"Data.h"
+	<iostream>
+
+1504399187 c:\users\calebe\downloads\ufpb\c++\projecto\data.h
+
+1504488708 source:c:\users\calebe\downloads\ufpb\c++\projecto\main.cpp
+	<iostream>
+	"Data.h"
+
+1504488843 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\data.cpp
+	"Data.h"
+	<iostream>
+
+1504399187 c:\users\calebe\downloads\ufpb\c++\roteiro 5\data.h
+
+1504619474 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\main.cpp
+	<iostream>
+	"Data.h"
+	"Invoice.h"
+	"Empregado.h"
+	"ControleDeGastos.h"
+
+1504399187 c:\users\calebe\downloads\ufpb\c++\roteiro 5\include\data.h
+
+1504560544 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\src\invoice.cpp
+	"Invoice.h"
+	<string>
+
+1504560507 c:\users\calebe\downloads\ufpb\c++\roteiro 5\include\invoice.h
+	<string>
+
+1504561168 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\src\data.cpp
+	"Data.h"
+	<iostream>
+
+1504565305 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\main 1.cpp
+	<iostream>
+	"invoice.h"
+
+1504565344 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\main 2.cpp
+	<iostream>
+	"Data.h"
+	"invoice.h"
+
+1504566471 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\src\empregado.cpp
+	"Empregado.h"
+
+1504566272 c:\users\calebe\downloads\ufpb\c++\roteiro 5\include\empregado.h
+	<string>
+
+1504568708 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\src\dispesa.cpp
+	"Dispesa.h"
+
+1504569594 c:\users\calebe\downloads\ufpb\c++\roteiro 5\include\dispesa.h
+	<string>
+
+1504619107 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\src\controledegastos.cpp
+	"ControleDeGastos.h"
+	"Despesa.h"
+
+1504619086 c:\users\calebe\downloads\ufpb\c++\roteiro 5\include\controledegastos.h
+	"Despesa.h"
+
+1504569594 c:\users\calebe\downloads\ufpb\c++\roteiro 5\include\despesa.h
+	<string>
+
+1504569721 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\src\despesa.cpp
+	"Despesa.h"
+
+1504621155 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\src\pagamento.cpp
+	"Pagamento.h"
+
+1504621155 c:\users\calebe\downloads\ufpb\c++\roteiro 5\include\pagamento.h
+	<string>
+
+1504620872 source:c:\users\calebe\downloads\ufpb\c++\roteiro 5\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+
+1504620347 c:\users\calebe\downloads\ufpb\c++\roteiro 5\include\controledepagamentos.h
+	"Pagamento.h"
+
+1504621412 source:c:\0 git gud\roteiroscpp\roteiro 5\main.cpp
+	<iostream>
+	"Data.h"
+	"Invoice.h"
+	"Empregado.h"
+	"ControleDeGastos.h"
+	"ControleDePagamentos.h"
+
+1504399187 c:\0 git gud\roteiroscpp\roteiro 5\include\data.h
+
+1504560507 c:\0 git gud\roteiroscpp\roteiro 5\include\invoice.h
+	<string>
+
+1504566272 c:\0 git gud\roteiroscpp\roteiro 5\include\empregado.h
+	<string>
+
+1504619086 c:\0 git gud\roteiroscpp\roteiro 5\include\controledegastos.h
+	"Despesa.h"
+
+1504569594 c:\0 git gud\roteiroscpp\roteiro 5\include\despesa.h
+	<string>
+
+1504620347 c:\0 git gud\roteiroscpp\roteiro 5\include\controledepagamentos.h
+	"Pagamento.h"
+
+1504621155 c:\0 git gud\roteiroscpp\roteiro 5\include\pagamento.h
+	<string>
+
+1504619107 source:c:\0 git gud\roteiroscpp\roteiro 5\src\controledegastos.cpp
+	"ControleDeGastos.h"
+	"Despesa.h"
+
+1504620872 source:c:\0 git gud\roteiroscpp\roteiro 5\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+
+1504561168 source:c:\0 git gud\roteiroscpp\roteiro 5\src\data.cpp
+	"Data.h"
+	<iostream>
+
+1504569721 source:c:\0 git gud\roteiroscpp\roteiro 5\src\despesa.cpp
+	"Despesa.h"
+
+1504566471 source:c:\0 git gud\roteiroscpp\roteiro 5\src\empregado.cpp
+	"Empregado.h"
+
+1504560544 source:c:\0 git gud\roteiroscpp\roteiro 5\src\invoice.cpp
+	"Invoice.h"
+	<string>
+
+1504621155 source:c:\0 git gud\roteiroscpp\roteiro 5\src\pagamento.cpp
+	"Pagamento.h"
+
