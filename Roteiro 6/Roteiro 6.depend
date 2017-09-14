@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1505394312 source:c:\users\calebe\downloads\ufpb\c++\roteiro 6\main.cpp
+	<iostream>
+	"Relogio.h"
+
+1505393774 source:c:\users\calebe\downloads\ufpb\c++\roteiro 6\src\relogio.cpp
+	"Relogio.h"
+
+1505327550 c:\users\calebe\downloads\ufpb\c++\roteiro 6\include\relogio.h
+
+1505395266 source:c:\users\calebe\downloads\ufpb\c++\roteiro 6\src\televisao.cpp
+	"Televisao.h"
+
+1505395028 c:\users\calebe\downloads\ufpb\c++\roteiro 6\include\televisao.h
+

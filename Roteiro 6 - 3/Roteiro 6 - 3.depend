@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1505397406 source:c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\main.cpp
+	<iostream>
+
+1505396264 source:c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\src\pedido.cpp
+	"Pedido.h"
+
+1505396412 c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\include\pedido.h
+	<string>
+
+1505398095 source:c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1505396993 c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\include\mesaderestaurante.h
+	"Pedido.h"
+
+1505397658 source:c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\src\retaurantecaseiro.cpp
+	"RetauranteCaseiro.h"
+
+1505398006 c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\include\retaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1505398651 source:c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1505398560 c:\users\calebe\downloads\ufpb\c++\roteiro 6 - 3\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
