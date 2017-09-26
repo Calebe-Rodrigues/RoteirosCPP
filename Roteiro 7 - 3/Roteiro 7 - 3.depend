@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1506436105 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\main.cpp
+	<iostream>
+	"Cirurgiao.h"
+	"Oftalmologista.h"
+	"Otorrino.h"
+	"Ginecologista.h"
+
+1506434291 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\src\medico.cpp
+	"Medico.h"
+
+1506435847 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\include\medico.h
+	<string>
+
+1506435824 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\src\cirurgiao.cpp
+	"Cirurgiao.h"
+	<iostream>
+
+1506435707 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\include\cirurgiao.h
+	"Medico.h"
+
+1506435824 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\src\oftalmologista.cpp
+	"Oftalmologista.h"
+	<iostream>
+
+1506435707 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\include\oftalmologista.h
+	<Medico.h>
+
+1506435824 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\src\otorrino.cpp
+	"Otorrino.h"
+	<iostream>
+
+1506435707 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\include\otorrino.h
+	<Medico.h>
+
+1506435824 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\src\ginecologista.cpp
+	"Ginecologista.h"
+	<iostream>
+
+1506435597 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 3\include\ginecologista.h
+	<Medico.h>
+

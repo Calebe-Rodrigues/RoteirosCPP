@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1506434039 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 2\main.cpp
+	<iostream>
+	"Consultor.h"
+
+1506432048 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 2\src\funcionario.cpp
+	"Funcionario.h"
+
+1506432240 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 2\include\funcionario.h
+	<string>
+
+1506433647 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 2\src\consultor.cpp
+	"Consultor.h"
+
+1506433539 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 2\include\consultor.h
+	<Funcionario.h>
+

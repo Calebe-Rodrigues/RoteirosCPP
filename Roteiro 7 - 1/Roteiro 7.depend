@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1506431795 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7\main.cpp
+	<iostream>
+	"Quadrado.h"
+	"Quadrilatero.h"
+	"Triangulo.h"
+	"Circulo.h"
+
+1505998618 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1506431796 c:\users\calebe\downloads\ufpb\c++\roteiro 7\include\figurageometrica.h
+	<string>
+
+1506431796 c:\users\calebe\downloads\ufpb\c++\roteiro 7\include\quadrado.h
+	<FiguraGeometrica.h>
+
+1506431795 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7\src\quadrado.cpp
+	"Quadrado.h"
+
+1505999667 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7\src\triangulo.cpp
+	"Triangulo.h"
+
+1505999607 c:\users\calebe\downloads\ufpb\c++\roteiro 7\include\triangulo.h
+	<FiguraGeometrica.h>
+
+1505999904 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7\src\circulo.cpp
+	"Circulo.h"
+
+1505999852 c:\users\calebe\downloads\ufpb\c++\roteiro 7\include\circulo.h
+	<FiguraGeometrica.h>
+
+1506000268 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7\src\quadrilatero.cpp
+	"Quadrilatero.h"
+
+1506000268 c:\users\calebe\downloads\ufpb\c++\roteiro 7\include\quadrilatero.h
+	<FiguraGeometrica.h>
+
+1506001104 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7\src\funcionario.cpp
+	"Funcionario.h"
+
+1506001931 c:\users\calebe\downloads\ufpb\c++\roteiro 7\include\funcionario.h
+	<string>
+
+1506001711 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7\src\consultor.cpp
+	"Consultor.h"
+
+1506431414 c:\users\calebe\downloads\ufpb\c++\roteiro 7\include\consultor.h
+	<Funcionario.h>
+
