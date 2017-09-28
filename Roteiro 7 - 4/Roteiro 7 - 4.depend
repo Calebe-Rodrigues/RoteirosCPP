@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 4\main.cpp
+	<iostream>
+
+1506599191 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 4\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1506600447 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 4\include\trabalhador.h
+	<string>
+
+1506600574 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 4\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1506600565 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 4\include\trabalhadorassalariado.h
+	<Trabalhador.h>
+
+1506600513 source:c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 4\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1506600448 c:\users\calebe\downloads\ufpb\c++\roteiro 7 - 4\include\trabalhadorporhora.h
+	<Trabalhador.h>
+
