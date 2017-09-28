@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1506607415 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\main.cpp
+	<iostream>
+	"ContaEspecial.h"
+
+1506604223 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\src\iconta.cpp
+	"IConta.h"
+
+1506604341 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\include\iconta.h
+
+1506606634 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\src\conta.cpp
+	"Conta.h"
+
+1506606997 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\include\conta.h
+	"IConta.h"
+	<string>
+
+1506606997 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1506606792 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\include\contaespecial.h
+	<Conta.h>
+
