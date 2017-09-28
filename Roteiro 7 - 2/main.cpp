@@ -15,9 +15,9 @@ int main()
     consultor1.setSalario(30);
     consultor1.setMatricula(321);
     consultor1.setNome("Genaro o Profissional");
-    consultor1.setPercent(25);
 
-    cout << consultor1.getNome() << endl << consultor1.getMatricula() << endl << consultor1.getSalario() << endl;
+
+    cout << consultor1.getNome() << endl << consultor1.getMatricula() << endl << consultor1.getSalario(50) << endl;
 
 
     return 0;

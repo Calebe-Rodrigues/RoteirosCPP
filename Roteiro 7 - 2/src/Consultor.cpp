@@ -2,7 +2,6 @@
 
 Consultor::Consultor()
 {
-    percent = 10;
     //ctor
 }
 
@@ -11,6 +10,10 @@ Consultor::~Consultor()
     //dtor
 }
 
-double Consultor::getSalario(){
-    return salario * (1 + percent/100);
+double Consultor::getSalario(double percentagem){
+    return salario * (1 + percentagem/100);
 }
+double Consultor::getSalario(){
+    return salario * 1.1;
+}
+

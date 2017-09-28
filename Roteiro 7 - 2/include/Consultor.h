@@ -11,13 +11,11 @@ class Consultor : public Funcionario
         virtual ~Consultor();
 
         double getSalario();
-        void setPercent(double percentual) {percent = percentual;};
-        double getPercent(){return percent;};
+        double getSalario(double percentagem);
 
     protected:
 
     private:
-        double percent;
 };
 
 #endif // CONSULTOR_H
