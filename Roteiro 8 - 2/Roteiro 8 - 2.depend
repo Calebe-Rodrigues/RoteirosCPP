@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1506804964 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\src\endereco.cpp
+	"Endereco.h"
+
+1506804964 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\include\endereco.h
+	<string>
+
+1506805496 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\src\imovel.cpp
+	"Imovel.h"
+
+1506805566 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\include\imovel.h
+	"Endereco.h"
+	<string>
+
+1506818716 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\main.cpp
+	<iostream>
+	"Imovel.h"
+	"Terreno.h"
+	"Casa.h"
+	"Apartamento.h"
+
+1506818735 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\src\terreno.cpp
+	"Terreno.h"
+
+1506807886 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\include\terreno.h
+	<Imovel.h>
+
+1506817060 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\src\casa.cpp
+	"Casa.h"
+
+1506817060 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\include\casa.h
+	<Imovel.h>
+
+1506817401 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\src\apartamento.cpp
+	"Apartamento.h"
+
+1506817402 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 2\include\apartamento.h
+	<Imovel.h>
+
