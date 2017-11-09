@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1510166820 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\main.cpp
+	<iostream>
+	"TestaValidaNumero.h"
+
+1510166176 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\src\testavalidanumero.cpp
+	"TestaValidaNumero.h"
+
+1510166176 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\include\testavalidanumero.h
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+	<iostream>
+
+1510166502 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\include\valorabaixoexception.h
+	<exception>
+	<string>
+
+1510166588 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\include\valoracimaexception.h
+	"exception"
+	<string>
+
+1510166588 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\include\valormuitoacimaexception.h
+	<exception>
+	<string>
+
+1510166122 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\src\valorabaixoexception.cpp
+	"ValorAbaixoException.h"
+
+1510166122 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\src\valoracimaexception.cpp
+	"ValorAcimaException.h"
+
+1510166122 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 1\src\valormuitoacimaexception.cpp
+	"ValorMuitoAcimaException.h"
+

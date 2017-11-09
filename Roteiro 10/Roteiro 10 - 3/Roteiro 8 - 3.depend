@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\main.cpp
+	<iostream>
+
+1506824561 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\src\funcionario.cpp
+	"Funcionario.h"
+
+1506824607 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\include\funcionario.h
+	<string>
+
+1506824763 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\src\assalariado.cpp
+	"Assalariado.h"
+
+1506824764 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\include\assalariado.h
+	<Funcionario.h>
+
+1506825067 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\src\horista.cpp
+	"Horista.h"
+
+1506825049 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\include\horista.h
+	<Funcionario.h>
+
+1506825399 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\src\comissionado.cpp
+	"Comissionado.h"
+
+1506825249 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\include\comissionado.h
+	<Funcionario.h>
+
+1506870218 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+
+1506870218 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 3\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1506873347 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\main.cpp
+	<iostream>
+	"SistemaGerenciaFolha.h"
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+
+1506870218 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1506824607 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\include\funcionario.h
+	<string>
+
+1506824764 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\include\assalariado.h
+	<Funcionario.h>
+
+1506825049 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\include\horista.h
+	<Funcionario.h>
+
+1506825249 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\include\comissionado.h
+	<Funcionario.h>
+
+1506824763 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\src\assalariado.cpp
+	"Assalariado.h"
+
+1506825399 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\src\comissionado.cpp
+	"Comissionado.h"
+
+1506824561 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\src\funcionario.cpp
+	"Funcionario.h"
+
+1506825067 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\src\horista.cpp
+	"Horista.h"
+
+1510200790 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"FuncionarioNaoExisteException.h"
+
+1510200227 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\src\funcionarionaoexisteexception.cpp
+	"FuncionarioNaoExisteException.h"
+
+1510200178 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\include\funcionarionaoexisteexception.h
+	"exception"
+
+1510200227 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\src\orcamentoestouradoexception.cpp
+	"OrcamentoEstouradoException.h"
+
+1510200177 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 3\include\orcamentoestouradoexception.h
+	"exception"
+

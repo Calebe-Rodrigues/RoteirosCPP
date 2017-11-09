@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1506607415 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\main.cpp
+	<iostream>
+	"ContaEspecial.h"
+
+1506604223 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\src\iconta.cpp
+	"IConta.h"
+
+1506604341 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\include\iconta.h
+
+1506606634 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\src\conta.cpp
+	"Conta.h"
+
+1506606997 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\include\conta.h
+	"IConta.h"
+	<string>
+
+1506606997 source:c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1506606792 c:\users\calebe\downloads\ufpb\c++\roteiro 8 - 1\include\contaespecial.h
+	<Conta.h>
+
+1510199450 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\main.cpp
+	<iostream>
+	"ContaEspecial.h"
+
+1506606792 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\include\contaespecial.h
+	<Conta.h>
+
+1510198991 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\include\conta.h
+	"SaldoNaoDisponivelException.h"
+	"IConta.h"
+	<string>
+
+1506604341 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\include\iconta.h
+
+1510198764 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1506604223 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\src\iconta.cpp
+	"IConta.h"
+
+1510199016 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\src\conta.cpp
+	"Conta.h"
+
+1507151690 source:c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\src\saldonaodisponivelexception.cpp
+	"SaldoNaoDisponivelException.h"
+	<stdio.h>
+
+1507151372 c:\users\calebe\downloads\ufpb\c++\r10\roteiro 10 - 2\include\saldonaodisponivelexception.h
+	<exception>
+
